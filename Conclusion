@@ -1,0 +1,15 @@
+The classification model to distinguish between benign and malignant tumors has been successfully created. 
+It's characteristics are as follows :
+
+Accuracy=98%
+
+Sensitivity=91.3%
+Specificity=100%
+
+Positive Predictive Value=100%
+Negative Predictive Value=97.5%
+
+Recall=91.3%
+Precision=100%
+
+F value=0.9545
